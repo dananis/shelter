@@ -10,4 +10,12 @@ body{
         border: 1px solid black;
     }
 
+    .copyright{position: absolute;
+    bottom: 10px;
+    text-align: center;
+    width: 100%;
+    
+    
+    }
+
 }
